@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destroyer
+  - Bullet
+  - Enemy
+  - SpaceShip
+  - enemy_bullet
+  - Bubble
+  - MustBeDestroyed
+  - Health
+  - Armor
+  - Coin
+  - Asteroid
+  - BigCoin
+  - AtomicBomb
+  - BulletPowerUp
+  - DeathScore
+  - WhichWeapon
+  - FanBullet
+  - PauseButton
+  - ActiveUI
+  - Boss
+  - PowerFullBossBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullets
+  - Enemies
+  - Players
+  - EnemyBullet
+  - Item
+  - Asteroid
+  - Spaceship
+  - FanBullet
+  - ActiveChoose
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: up
+    uniqueID: 936760587
+    locked: 0
+  - name: middle
+    uniqueID: 4085266385
+    locked: 0
+  - name: down
+    uniqueID: 1677731377
+    locked: 0

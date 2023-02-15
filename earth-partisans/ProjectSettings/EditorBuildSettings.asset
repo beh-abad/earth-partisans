@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GUI/(A)GUI.unity
+    guid: 57980cf44fc02854e932f1c796f8885c
+  - enabled: 1
+    path: Assets/Scenes/GUI/(B)GUI2.unity
+    guid: c8241167f3d767c4e822b02d7a40582a
+  - enabled: 1
+    path: Assets/Scenes/GUI/(C)GUI3.unity
+    guid: 6f22d334189e6aa409919607ef1a9ef6
+  - enabled: 1
+    path: Assets/Scenes/GUI/(D)GUI4.unity
+    guid: 1e94b34bf3cd4164d870e700175b17c4
+  - enabled: 1
+    path: Assets/Scenes/Season 1/Level 1.unity
+    guid: f39d5fe58c42dc344ac3094df9c90790
+  - enabled: 1
+    path: Assets/Scenes/Season 1/Level 2.unity
+    guid: 6a7b78211ff38aa4494a21c06716e8db
+  - enabled: 1
+    path: Assets/Scenes/Season 1/Level 3.unity
+    guid: 30607eb10297b8248ac6c6c7a423943a
+  - enabled: 1
+    path: Assets/Scenes/Season 1/Level 4.unity
+    guid: b9d6e85b93d26174f86238f72d604ec0
+  - enabled: 1
+    path: Assets/Scenes/Season 2/Level 5.unity
+    guid: a6669161cb5b46e4abd5a49edee8902d
+  - enabled: 1
+    path: Assets/Scenes/Season 2/Level 6.unity
+    guid: 689ce7cbd7b34f846a63fe0c78016967
+  - enabled: 1
+    path: Assets/Scenes/Season 2/Level 7.unity
+    guid: 340cac61be527184c9881c74b1acb497
+  - enabled: 1
+    path: Assets/Scenes/Season 2/Level 8.unity
+    guid: 9f4de7a155da9e342b39c5ae32bf8dec
+  - enabled: 1
+    path: Assets/Scenes/Season 3/Level 9.unity
+    guid: 10a03ce694fd8df4089ac39bdf8a268b
+  - enabled: 1
+    path: Assets/Scenes/Season 3/Level 10.unity
+    guid: bf358bfe1e3cc0c4b90fd1fc075eb19c
+  m_configObjects: {}
