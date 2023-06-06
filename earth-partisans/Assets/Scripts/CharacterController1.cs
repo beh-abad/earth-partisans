@@ -1,4 +1,4 @@
-//This code is witten by Behrang Abad Foomani
+//This code has been witten by Behrang Abad Foomani
 using UnityEngine.UI;
 using UnityEngine;
 using System;
