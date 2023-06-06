@@ -1,4 +1,5 @@
-﻿using UnityEngine.UI;
+//This code is witten by Behrang Abad Foomani
+using UnityEngine.UI;
 using UnityEngine;
 using System;
 
