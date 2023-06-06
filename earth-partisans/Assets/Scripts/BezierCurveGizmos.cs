@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿//This code has been witten by Behrang Abad Foomani
+using UnityEngine;
 
 public class BezierCurveGizmos : MonoBehaviour
 {   
