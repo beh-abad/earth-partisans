@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//This code has been witten by Behrang Abad Foomani﻿
+using System.Collections;
 using UnityEngine;
 
 public class BackMusicController : MonoBehaviour
